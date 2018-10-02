@@ -1,5 +1,4 @@
 const passport = require('passport');
-const app = require('../index')
 
 module.exports = app => {
     app.get(
