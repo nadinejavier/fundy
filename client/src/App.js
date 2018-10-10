@@ -12,9 +12,9 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
-            href="https:/"
+            href="/auth/google"
           >
-            Learn React
+            Log in with Google
           </a>
         </header>
       </div>
